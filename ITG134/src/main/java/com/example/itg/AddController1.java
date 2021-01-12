@@ -6,7 +6,7 @@ public class AddController1 {
 	
 	@RequestMapping("/")
 	String display() {
-		return "welcome to itg 134 new";
+		return "welcome to itg 134 new one";
 		
 	}
 	@RequestMapping(value="/add")
